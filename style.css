@@ -1,0 +1,17 @@
+body {
+  background-color: darkcyan;
+}
+.lista-planetas {
+  background-color: darkgray;
+  text-align: center;
+}
+.container-btn button {
+  padding: .5rem; 
+  border-radius: 20%;   
+  cursor: pointer;  
+  background-color: rgb(143, 10, 55);
+  color: white;
+}
+.container-btn:hover{
+    transform: scale(1.5);
+}
